@@ -10,6 +10,6 @@ Para executar o projeto, utilize o comando:
 
 ### `npm start`
 
-Executa o aplicativo no modo de desenvolvimento.
+Executar o aplicativo no modo de desenvolvimento.
 Abra http: // localhost: 3000 para visualizá-lo no navegador.
 
