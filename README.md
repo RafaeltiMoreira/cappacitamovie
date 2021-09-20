@@ -13,3 +13,8 @@ Para executar o projeto, utilize o comando:
 Executar o aplicativo no modo de desenvolvimento.
 Abra http: // localhost: 3000 para visualizá-lo no navegador.
 
+<p align="center">
+<img width="100%" height="100%" src="https://i.imgur.com/ngxZp8q.png">
+</p>
+
+
