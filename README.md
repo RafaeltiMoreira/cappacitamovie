@@ -1,4 +1,6 @@
-# Desafio final do módulo 5 com Create React App
+# Cappacita Dev | by Smarkio
+
+## Desafio final do módulo 5 com Create React App
 
 Este projeto foi inicializado com o [Create React App](https://github.com/facebook/create-react-app).
 
