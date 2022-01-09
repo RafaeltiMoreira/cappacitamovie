@@ -13,7 +13,7 @@ O projeto Cappacita Movie foi desenvolvido durante o curso de Programação para
 - CSS;
 - JavaScript;
 - ReactJS.
-### Back-end: em contrução 🚧👷
+### Back-end: em construção 🚧👷
 
 ## Scripts
 
